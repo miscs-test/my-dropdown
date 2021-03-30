@@ -1,24 +1,12 @@
-# my_dropdown
+# A little dropdown with vue
 
-## Project setup
+## description 
+组件由四部分构成
 ```
-npm install
+my-dropdown
+button
+my-dropdown-menu
+my-dropdown-item
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## reference
+[vue插件-(elementui-dropdown)开源包的开发和发布](https://juejin.cn/post/6844903584933363725)
